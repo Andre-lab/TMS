@@ -1,0 +1,5 @@
+Average log-likelihood gain per site, compared to the starting matrix = 0.154
+Average AIC gain per site, compared to the starting matrix = 0.268 (p-value = 0.0000)
+Pearson correlation of the log of rates, compared to the starting matrix = 0.985
+Pearson correlation of the log of exchangeabilities, compared to the starting matrix = 0.984
+Pearson correlation of the amino-acid frequencies, compared to the starting matrix = 0.897
