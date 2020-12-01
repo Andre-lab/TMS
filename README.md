@@ -26,7 +26,7 @@ based on grid-search. To recompute parameter grid-search
 run:
 bash scripts/00_make_cmds_for_grid_optimization.sh
 the script only creates the commands. You will have
-to execute them yourself (requires >5k CPU hours).
+to execute them yourself.
 
 mles/
 -------------------------------------------------------
